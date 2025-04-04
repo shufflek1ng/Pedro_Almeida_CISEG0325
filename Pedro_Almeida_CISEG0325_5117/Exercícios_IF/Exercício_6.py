@@ -1,6 +1,4 @@
 compra=0
-desconto=0
-
 cliente=(input("Digite o seu nome: "))
 
 compra=float(input("Qual é o valor da compra? : € "))
